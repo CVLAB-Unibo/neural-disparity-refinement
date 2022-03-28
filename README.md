@@ -71,6 +71,9 @@ You can download pre-trained models on our UnrealStereo4K dataset from the follo
 
 * [SceneFlow](https://drive.google.com/file/d/1NAMC4uNSPwUegyCchQ0DYidBOSaCpk9W/view?usp=sharing)
 
+## Note
+Training code will not be released due to licence terms and conditions.
+
 ## Contacts
 
 For questions, please send an email to filippo.aleotti2@unibo.it or fabio.tosi5@unibo.it or pierluigi.zama@unibo.it
