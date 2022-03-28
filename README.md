@@ -21,7 +21,7 @@ This repository contains a Pytorch implementation of: "Neural Disparity Refineme
 
 For more details, please check:
 
-[[Project Page]](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)  [[Paper&Supplementary]](https://arxiv.org/pdf/2110.15367.pdf)  [[Video]](Coming Soon)
+[[Project Page]](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)  [[Paper&Supplementary]](https://arxiv.org/pdf/2110.15367.pdf)
 
 
 If you find this code useful in your research, please cite:
