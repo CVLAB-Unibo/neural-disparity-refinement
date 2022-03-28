@@ -1,6 +1,6 @@
 # Neural Disparity Refinement for Arbitrary Resolution Stereo
 ## **Best Paper Honorable Mention 3DV 2021**
-### Filippo Aleotti*, Fabio Tosi*, Pierluigi Zama Ramirez*, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano
+### Filippo Aleotti*, Fabio Tosi*, Pierluigi Zama Ramirez*, Matteo Poggi, Samuele Salti, Stefano Mattoccia, Luigi Di Stefano
 #### _*Equal Contribution_
 #
 
@@ -71,7 +71,7 @@ You can download pre-trained models on our UnrealStereo4K dataset from the follo
 
 * [SceneFlow](https://drive.google.com/file/d/1NAMC4uNSPwUegyCchQ0DYidBOSaCpk9W/view?usp=sharing)
 
-## Note
+## Note on training code
 Training code will not be released due to licence terms and conditions.
 
 ## Contacts
