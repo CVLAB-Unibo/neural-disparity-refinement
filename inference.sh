@@ -1,4 +1,4 @@
- #!bin/bash
+#!/bin/sh
 
 export CUDA_VISIBLE_DEVICES=0
 
@@ -21,7 +21,7 @@ downsampling_factor=1
 # extras
 extras=""
 
-python apps/inference.py --load_checkpoint_path $ckpt \
+python3 apps/inference.py --load_checkpoint_path $ckpt \
                         --backbone $backbone \
                         --results_path $results_path \
                         --upsampling_factor $upsampling_factor \

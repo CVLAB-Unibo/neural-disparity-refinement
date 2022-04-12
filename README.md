@@ -39,7 +39,7 @@ If you find this code useful in your research, please cite:
 ## Requirements
 This code was tested with Python 3.8, Pytotch 1.8.1, CUDA 11.1 and Ubuntu 20.04. <br>All our experiments were performed on a single NVIDIA RTX 3090 GPU.<br>Requirements can be installed using the following script:
 ```shell
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 ## Inference
 Use the following command to refine an input noisy disparity map (rgb also required).
